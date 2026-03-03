@@ -13,3 +13,4 @@ Problems focused on calculus in deep-ml.com.
 | partial_derivatives.py | Medium | 35 min |
 | chain_rule_derivative.py | Medium | 40 min |
 | jacobian_matrix.py | Medium | 45 min |
+| hessian_matrix.py | Medium | 30 min |
