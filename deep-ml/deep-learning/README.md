@@ -1,4 +1,4 @@
-# Calculus
+# Deep Learning
 
 Problems focused on deep learning in deep-ml.com.
 
