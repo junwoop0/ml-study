@@ -2,7 +2,7 @@
 
 Problems focused on calculus.
 
-## Problems
+## Progress
 
 | File | Difficulty | Time |
 |------|------------|------|

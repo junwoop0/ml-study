@@ -2,7 +2,7 @@
 
 Problems focused on deep learning.
 
-## Problems
+## Progress
 
 | File | Difficulty | Time |
 |------|------------|------|
