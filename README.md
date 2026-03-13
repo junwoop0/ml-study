@@ -1,16 +1,12 @@
 # Machine Learning Study
 
-A repository for building ML fundamentals through problem solving and implementation.
+A repository for building ML fundamentals through problem solving and writing AI models.
 
 ## Structure
 
-- `deep-ml/` — math and ML fundamentals from deep-ml.com
+- `deep-ml/` — problems from [Deep-ML](https://www.deep-ml.com/)
 - `model-from-scratch/` — implementing AI models by hand
 - `pytorch-practice/` — experiments using PyTorch
-
-## Goal
-
-Build a strong foundation in writing AI models and understanding the mechanisms behind them.
 
 ## Progress
 Started: February 20, 2026
