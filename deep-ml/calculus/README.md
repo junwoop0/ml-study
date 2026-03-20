@@ -14,3 +14,4 @@ Problems focused on calculus.
 | chain_rule_derivative.py | Medium | 40 min |
 | jacobian_matrix.py | Medium | 45 min |
 | hessian_matrix.py | Medium | 30 min |
+| taylor_series_approximation.py | Easy | 10 min |
