@@ -15,3 +15,4 @@ Problems focused on calculus.
 | jacobian_matrix.py | Medium | 45 min |
 | hessian_matrix.py | Medium | 30 min |
 | taylor_series_approximation.py | Easy | 10 min |
+| find_minimum_gradient_descent.py | Medium | 60 min |
