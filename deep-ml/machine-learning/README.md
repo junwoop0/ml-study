@@ -11,3 +11,4 @@ Problems focused on machine learning.
 | gradient_descent_variants.py | Medium | 35 min |
 | classify_critical_points.py | Medium | 20 min |
 | lagrange_multipliers.py | Medium | 40 min |
+| batch_iterator.py | Easy | 30 min |
